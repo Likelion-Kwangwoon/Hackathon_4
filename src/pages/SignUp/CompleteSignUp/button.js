@@ -30,7 +30,7 @@ Button.defaultProps ={
     fontColor :'white',
     width : '8rem',
     flexDirection :'row',
-    justifyContent:'center'
+    justifyContent:'center',
 
 }
 
